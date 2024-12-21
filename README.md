@@ -23,11 +23,4 @@ We will achieve our objectives using a blend of traditional and cutting-edge mac
   - [Overview and Applications](https://arxiv.org/abs/2211.08064)
   - [Advanced Techniques](https://arxiv.org/abs/2410.13228)
 
-## Getting Started
-*Include setup, installation, and run instructions here*
 
-## Contributing
-*Guidelines for how others can contribute to the project*
-
-## License
-*Information about the project's license*
