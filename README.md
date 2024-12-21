@@ -22,5 +22,6 @@ We will achieve our objectives using a blend of traditional and cutting-edge mac
 - Physics Informed Machine Learning (PIML):
   - [Overview and Applications](https://arxiv.org/abs/2211.08064)
   - [Advanced Techniques](https://arxiv.org/abs/2410.13228)
-
+  - [Energy or Lyapunov Structure](https://arxiv.org/html/2401.04986v1)
+- [water movment](https://www.semanticscholar.org/paper/Shallow-neural-networks-for-fluid-flow-with-limited-Erichson-Mathelin/1d0a559b6029275a535b08c8be47510450bcaf68)
 
