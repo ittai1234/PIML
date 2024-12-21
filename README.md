@@ -24,4 +24,18 @@ We will achieve our objectives using a blend of traditional and cutting-edge mac
   - [Advanced Techniques](https://arxiv.org/abs/2410.13228)
   - [Energy or Lyapunov Structure](https://arxiv.org/html/2401.04986v1)
 - [water movment](https://www.semanticscholar.org/paper/Shallow-neural-networks-for-fluid-flow-with-limited-Erichson-Mathelin/1d0a559b6029275a535b08c8be47510450bcaf68)
+### Books
+- [Data-Driven Science and Engineering](http://www.databookuw.com/)
+- [Machine Learning: A Probabilistic Perspective](https://mitpress.mit.edu/books/machine-learning-0)
+### Articles and Papers
+- [Physics-informed machine learning](https://www.nature.com/articles/s42254-021-00314-5)
+- [Deep learning in fluid dynamics](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/deep-learning-in-fluid-dynamics/A3F2B9CA8B5A9B8024EAD07D2F3A4A5D)
+
+### Online Courses and Tutorials
+- [Machine Learning with Python - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-036-machine-learning-with-python-from-linear-models-to-deep-learning-spring-2019/)
+- [Data-driven Astronomy - Coursera](https://www.coursera.org/learn/data-driven-astronomy)
+
+### Software and Libraries
+- [TensorFlow Physics](https://github.com/tensorflow/physics)
+- [PyTorch Geometric Temporal](https://pytorch-geometric-temporal.readthedocs.io/en/latest/)
 
