@@ -25,6 +25,7 @@ We will achieve our objectives using a blend of traditional and cutting-edge mac
   - [Overview and Applications](https://arxiv.org/abs/2211.08064)
   - [Advanced Techniques](https://arxiv.org/abs/2410.13228)
   - [Energy or Lyapunov Structure](https://arxiv.org/html/2401.04986v1)
+  - [Lagrangian Neural Networks for Learning Hamiltonian Dynamics](https://arxiv.org/abs/2003.04630) - This paper discusses how LNNs can be used to learn Hamiltonian dynamics, a foundational aspect of physics-based machine learning.
 - **Neural Network-Based PDE Solving**
   - [Nature Article](https://www.nature.com/articles/s41598-023-31236-0)
 - **Fluid Dynamics**
