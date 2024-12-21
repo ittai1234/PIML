@@ -11,7 +11,7 @@ The primary goal of this project is to:
 ## Methods
 We will achieve our objectives using a blend of traditional and cutting-edge machine learning techniques:
 - **Sparse Identification of Nonlinear Dynamics (SINDy)**: For discovering governing equations directly from data.
-- **Physics Informed Neural Networks (PINN)**: Including Lagrangian Neural Networks and simpler architectures like Recurrent Neural Networks.
+- **Physics Informed Neural Networks (PINN)**: Including Lagrangian Neural Networks and simpler architectures like RNN and CNN.
 - **Neural Operators**: Specifically, Fourier Neural Operators for continuous learning.
 - **Neural Network-Based PDE Solving Algorithms**: To solve partial differential equations.
 - **Autoencoder Architectures**: For complex dataset feature extraction and reduction.
